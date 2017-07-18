@@ -1,0 +1,1 @@
+var ಠ_ಠ875=function(){[3,2,4,2].forEach(function(ಠ_ಠ878,ಠ_ಠ877){var ಠ_ಠ876=ಠ_ಠ878*ಠ_ಠ877;console.log(ಠ_ಠ876)})},saluda=function(){console.log("hola")};saluda();
